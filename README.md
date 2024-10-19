@@ -12,7 +12,7 @@ Desktop Cleaner is a command-line interface (CLI) tool that helps you clean and 
 
 1. Clone the repository:
  
-    git clone https://github.com/yourusername/Desktop_Cleaner.git
+    git clone https://github.com/KhalSCI/Desktop_Cleaner.git
 
 2. Navigate to the project directory:
   
