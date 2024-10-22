@@ -11,16 +11,18 @@ Desktop Cleaner is a command-line interface (CLI) tool that helps you clean and 
 ## Installation
 
 1. Clone the repository:
- 
-    git clone https://github.com/KhalSCI/Desktop_Cleaner.git
-
-2. Navigate to the project directory:
-  
+   ```bash
+   git clone https://github.com/KhalSCI/Desktop_Cleaner.git
+   ```
+3. Navigate to the project directory:
+   ```bash
     cd Desktop_Cleaner
+    ```
 
-3. Install the required dependencies:
- 
+4. Install the required dependencies:
+    ```bash
     pip install -r requirements.txt
+    ```
 
 
 ## Usage
