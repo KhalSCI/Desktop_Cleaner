@@ -30,4 +30,4 @@ Desktop Cleaner is a command-line interface (CLI) tool that helps you clean and 
 Run the script using Python:
 ```bash
 python [main.py]()
-```bash
+```
