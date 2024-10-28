@@ -31,3 +31,7 @@ Run the script using Python:
 ```bash
 python main.py
 ```
+If this does not work try specifing the path to ur desktop directly example:
+```bash
+python main.py --path "C:\Users\kubap\OneDrive\Pulpit"
+```
